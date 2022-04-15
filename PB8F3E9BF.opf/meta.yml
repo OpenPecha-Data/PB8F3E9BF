@@ -1,0 +1,28 @@
+id: PB8F3E9BF
+initial_creation_type: input
+source_metadata:
+  title: Ratnagotravibhāga commentary (block print), colophon excerpt
+  author: རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག
+  description: 'Digital version 1.0 {Tibetan}, diplomatic edition of witness A; master
+    xml (completed: 2020-05-19); revision in process, thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/1680
+  bases:
+    c1ff:
+      title: Ratnagotravibhāga commentary (block print), colophon excerpt
+      order: 1
+      base_file: c1ff.txt
+created_at: '2022-04-15T18:51:08.710359'
+last_modified_at: '2022-04-15T18:51:08.710366'
+quality: null
